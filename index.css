@@ -62,7 +62,7 @@
     display: grid;
 }
 .section__imgend{
-    background-image: url(../Lesson10/img/bg-masthead.jpg);
+    background-image: url(../Lesson10/img/bg-masthead.png);
     height: 200px;
     background-position: center;
     background-size: cover;
